@@ -1,0 +1,19 @@
+﻿Designator,Type,Value/Description,Qty,Vendor,Part Number ,Alternative Part number,Frequently used,Notes
+,Resistor,10K,3,Mouser,603-MFR-25FTF52-10K,,* ,
+,Resistor,1K,3,Mouser,603-MFR-25FBF52-1K,,* ,
+,Resistor,499R,1,Mouser,603-MFR-25FBF52-499R,,* ,
+,Resistor,100K,1,Mouser,603-MFR-25FBF52-100K,,* ,
+,Resistor,1M,1,Mouser,603-MFR-25FRE52-1M,,,
+,Resistor,75R,1,Mouser,603-MFR-25FTE52-75R,,* ,
+,IC,LM6172,1,Mouser,926-LM6172IN/NOPB,,* ,
+,Capacitor,100n,2,Mouser,594-K104K15X7RF53K2,,* ,
+,Socket,PJ302M,1,Thonk,PJ302M,,* ,
+,PCB,RGB Matrix Input PCB set,1,Visible Signals,MM-IN or MM-SP,,,
+,Panel,RGB Matrix Input PCB set,1,Visible Signals,MM-IN or MM-SP,,,
+,Pin Header,Pin Header 2x7 right angle,1,Mouser,649-1012938291402BLF,,,Or get a 2x40 and snap off what you need
+,Pin Header,Pin Header 1x3 right angle,1,Mouser,649-1012937990501BLF,,,Or get a 1x40. Snap off what you need
+,Electrolytic Capacitor,10uF,2,Mouser,80-ESL106M050AC3AA,,* ,
+,Switch,3PDT ON-OFF-ON Toggle,1,Mouser,108-0006-EVX,7303SYZQE,,Needs the centre-off position for muting
+,Switch,1PDT ON-OFF-ON Toggle,3,Mouser,118-1MS3T1B1M2QES,,,Needs the centre-off position for muting
+,Potentiometer,B10K,3,Thonk,Alpha 9mm Right Angle,,* ,T18 or Round shaft to match knobs
+,Knobs,Red, Green and Blue,3,Thonk,Davies 1900H,,* ,T18 or Round shaft to match pots

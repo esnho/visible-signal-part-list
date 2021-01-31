@@ -1,0 +1,33 @@
+﻿Designator,Type,Value/Description,Qty,Vendor,Part Number,Alternative part number,*,Notes
+,MLCC Capacitor,100n,10,Mouser,594-K104K15X7RF53K2,,*,
+,MLCC Capacitor,10n,2,Mouser,594-K103K15X7RF53K2,,,
+,Diode,1N400x,2,Mouser,750-1N4001-G,,*,Any part like 1N4001, 1N4004, etc is fine
+,Diode,1N5711,9,Mouser,511-1N5711,,*,
+,Electrolytic Capacitor,10uF,2,Mouser,80-ESL106M050AC3AA,,*,
+,Ferrite bead,Ferrite bead,2,Mouser,623-2743001111,,*,
+,IC,LM6172,3,Mouser,926-LM6172IN/NOPB,,*,
+,IC,LM339N,1,Mouser,595-LM339N,,,
+,IC,TL074,1,Mouser,595-TL074CN,,,
+,LED,Red 3mm round,4,Mouser,710-151031SS06000,,*,
+,LED,Green 3mm round,1,Mouser,710-151031VS06000,,,
+,PCB,Wrangler PCB set,1,Visible Signals,WGLR,,,
+,Panel,Wrangler PCB set,1,Visible Signals,WGLR,,,
+,Pin Header,3x1 Pin Header,2,Mouser,710-61300311121,,,Or get a 40 pin one and snap off what you need
+,Pin Header,5x2 Pin Header,1,Mouser,710-61201021621,,*,Shrouded
+,Knobs,Davies 1900H,2,Thonk,1900H,,*,T18 or rounded shaft to match Pots
+,Potentiometer,10K Linear,2,Thonk,Alpha 9mm VERTICAL,,,T18 or rounded shaft to match Knobs
+,Resistor,1.5K,1,Mouser,603-MFR-25FBF52-1K5,,,
+,Resistor,100K,3,Mouser,603-MFR-25FBF52-100K,,*,
+,Resistor,100R,1,Mouser,603-MFR-25FBF52-100R,,,
+,Resistor,1K,18,Mouser,603-MFR-25FBF52-1K,,*,
+,Resistor,2.2K,3,Mouser,603-MFR-25FBF52-2K2,,,
+,Resistor,220R,1,Mouser,603-MFR-25FRF52-220R,,,
+,Resistor,22K,2,Mouser,603-MFR-25FBF52-22K,,,
+,Resistor,27K,2,Mouser,603-MFR-25FBF52-27K,,,
+,Resistor,4.3K,1,Mouser,603-MFR-25FBF52-4K3,,,
+,Resistor,43K,1,Mouser,603-MFR-25FBF52-43K,,,
+,Resistor,4.99K,1,Mouser,603-MFR-25FBF52-4K99,,*,
+,Resistor,499R,4,Mouser,603-MFR-25FBF52-499R,,*,
+,Resistor,6.8K,2,Mouser,603-MFR-25FBF52-6K8,,,
+,Socket,PJ302M,4,Thonk,PJ302M,,*,
+,Voltage Reference,TL431,1,Mouser,511-TL431CZT,,*,

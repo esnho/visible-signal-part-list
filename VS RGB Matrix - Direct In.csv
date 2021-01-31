@@ -1,0 +1,17 @@
+﻿Designator,Type,Value/Description,Qty,Vendor,Part Number,Alternative Part Number,Frequently used,Notes
+,Resistor,100K,3,Mouser,603-MFR-25FBF52-100K,,*,
+,Resistor,10K,3,Mouser,603-MFR-25FTF52-10K,,*,
+,Resistor,1K,9,Mouser,603-MFR-25FBF52-1K,,*,
+,Resistor,1M,1,Mouser,603-MFR-25FRE52-1M,,,
+,Resistor,499R,3,Mouser,603-MFR-25FBF52-499R,,*,
+,Resistor,75R,2,Mouser,603-MFR-25FTE52-75R,,*,
+,IC,LM6172,3,Mouser,926-LM6172IN/NOPB,,*,
+,Capacitor,100n,6,Mouser,594-K104K15X7RF53K2,,*,
+,Socket,PJ302M,3,Thonk,PJ302M,,*,
+,PCB,RGB Matrix Direct In PCB set,1,Visible Signals,MM-DI,,,
+,Panel,RGB Matrix Direct In PCB set,1,Visible Signals,MM-DI,,,
+,Pin Header,Pin Header 2x7 right angle,1,Mouser,649-1012938291402BLF,,Or get a 2x40 and snap off what you need,
+,Electro Capacitor,10uF,2,Mouser,80-ESL106M050AC3AA,,*,
+,Switch,3PDT (centre off) toggle,1,Mouser,108-0006-EVX,7303SYZQE,,
+,Potentiometer,10KB,3,Thonk,Alpha 9mm Right Angle,,*,T18 or Round shaft to match knobs
+,Knobs,Red, Green and Blue,3,Thonk,Davies 1900H,,*,T18 or Round shaft to match pots

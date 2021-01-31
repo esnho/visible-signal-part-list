@@ -1,0 +1,16 @@
+Designator,Type,Value/Description,Qty,Vendor,Part Number,Alternative Part number,Frequently used,Notes
+,Resistor,1K,6,Mouser,603-MFR-25FBF52-1K,,*,
+,Resistor,20K,6,Mouser,603-MFR-25FBF52-20K,,,
+,Resistor,499R,6,Mouser,603-MFR-25FBF52-499R,,*,
+,Ferrite bead,Ferrite bead,2,Mouser,623-2743001111,,*,
+,Diode,IN400x,2,Mouser,750-1N4001-G,,*,
+,IC,LM6172,6,Mouser,926-LM6172IN/NOPB,,*,
+,Capacitor,100n,12,Mouser,594-K104K15X7RF53K2,,*,
+,Pin Header,Pin Header 2x5,1,Mouser,710-61201021621,,*,Shrouded
+,Pin Header,Pin Header 2x7 right angle,1,Mouser,649-1012938291402BLF,,,Or get a 40x2 and snap off what you need
+,Pin Header,Pin Headers 4x1,1,Mouser,649-1012937890401BLF,,,Or get a 40x1 and snap off what you need
+,Pin Header,Pin Headers 6x1,1,Mouser,649-1012937890601BLF,,,Or get a 40x1 and snap off what you need
+,Socket,PJ302M,6,Thonk,PJ302M,,*,
+,Electro Capacitor,10uF,2,Mouser,80-ESL106M050AC3AA,,*,
+,PCB,RGB Matrix Starter Pack PCB set,1,Visible Signals,MM-SP,,,
+,Panel,RGB Matrix Starter Pack PCB set,1,Visible Signals,MM-SP,,,
