@@ -1,7 +1,7 @@
 ﻿Designator,Type,Value/Description,Qty,Vendor,Part Number,Alternative part number,*,Notes
 ,MLCC Capacitor,100n,10,Mouser,594-K104K15X7RF53K2,,*,
 ,MLCC Capacitor,10n,2,Mouser,594-K103K15X7RF53K2,,,
-,Diode,1N400x,2,Mouser,750-1N4001-G,,*,Any part like 1N4001, 1N4004, etc is fine
+,Diode,1N400x,2,Mouser,750-1N4001-G,,*,"Any part like 1N4001, 1N4004, etc is fine"
 ,Diode,1N5711,9,Mouser,511-1N5711,,*,
 ,Electrolytic Capacitor,10uF,2,Mouser,80-ESL106M050AC3AA,,*,
 ,Ferrite bead,Ferrite bead,2,Mouser,623-2743001111,,*,
