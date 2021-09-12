@@ -17,3 +17,4 @@
 ,Switch,1PDT ON-OFF-ON Toggle,3,Mouser,118-1MS3T1B1M2QES,,,Needs the centre-off position for muting
 ,Potentiometer,B10K,3,Thonk,Alpha 9mm Right Angle,,* ,T18 or Round shaft to match knobs
 ,Knobs,Red Green and Blue,3,Thonk,Davies 1900H,,* ,T18 or Round shaft to match pots
+,IDC Connector,14 pin (2x7) 0.1",1,Mouser,653-XG4M-1430,,,Fo the RGB Matrix bus ribbon cable
